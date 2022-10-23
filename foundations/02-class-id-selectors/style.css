@@ -1,0 +1,19 @@
+.pink {
+    background-color: rgb(255, 156, 172);
+    font-size: 20px;
+}
+
+#larger {
+    font-size: 30px;
+}
+
+#blue {
+    color: rgb(55, 55, 200);
+    font-size: 36px;
+}
+
+#green {
+    background-color: rgb(124, 255, 124);
+    font-weight: bold;
+    font-size: 32px;
+}
