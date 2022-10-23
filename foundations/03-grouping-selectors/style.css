@@ -1,0 +1,14 @@
+#button-1,
+#button-2 {
+  font-family: "Times New Roman";
+  font-size: 30px;
+}
+
+#button-1 {
+    background-color: black;
+    color: white;
+}
+
+#button-2 {
+    background-color: yellow;
+}
